@@ -1,0 +1,23 @@
+main {width: 50%; margin-left: 25%}
+
+header {text-align: center;}
+div>p.intro{background-color: #fffacd;
+            height: 30px;} 
+
+h1{text-align: center;}
+
+#focaccia{width: 500px;} 
+
+div>p.featured{color:brown;}
+
+main{text-align: center;}
+
+div.ingredients{text-align: left;}
+
+div.method{text-align: left;}
+
+div.featured{text-align: left;}
+
+figcaption{color: grey;}
+
+ul:first-child{font-weight: bold;}
